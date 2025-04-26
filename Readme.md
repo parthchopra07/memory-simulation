@@ -96,11 +96,16 @@ Follow these steps to compile and run the simulation:
    ```bash
    java -version
    javac -version
+   
 2. **Compile the source files**
    Open a terminal/command prompt, navigate to the project directory, and compile all .java files:
+    ```bash
    javac *.java
+   
 3. **Run the Simulation**
+   ```bash
    java Simulation
+   
 4. **View the output**
   The simulation results will be printed to the console.
   A file named free_blocks.txt will be generated in the project directory. This file     contains detailed logs of free memory blocks and error events during the simulation.
