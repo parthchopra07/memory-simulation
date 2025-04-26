@@ -66,6 +66,7 @@ The program is structured into three main components:
 
 - **Figure 1:** Test 1 
 ![Picture 1](Figures/Picture1.png)  
+
 - **Figure 2:** Test 2  
 ![Picture 2](Figures/Picture2.png)
 - **Figure 3:** Test 3  
