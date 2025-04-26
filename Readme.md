@@ -64,10 +64,15 @@ The program is structured into three main components:
 
 ### Example Runs
 
-- **Figure 1:** Test 1  
+- **Figure 1:** Test 1 
+![Picture 1](Figures/Picture1.png)  
 - **Figure 2:** Test 2  
+![Picture 2](Figures/Picture2.png)
 - **Figure 3:** Test 3  
-- **Figure 4:** Logs of free blocks and error events exported to `free_blocks.txt`.
+![Picture 3](Figures/Picture3.png)
+- **Figure 4:** Test 4 
+![Picture 4](Figures/Picture4.png)
+
 
 ### Analysis
 
